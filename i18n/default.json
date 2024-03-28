@@ -2,37 +2,37 @@
 	// task names and keywords (for parsing)
 	"task.basic": "Basic",
 	"task.blacksmith": "Upgrade Tool",
-	"task.blacksmith.keywords": "upgrade",
+	"task.blacksmith.keywords": "upgrade,update",
 	"task.build": "Build",
-	"task.build.keywords": "build,construct,raise,buy,purchase,get",
+	"task.build.keywords": "build,construct,raise,buy,purchase,get,upgrade,update,develop,create,frame,structure,acquire",
 	"task.buy": "Buy",
-	"task.buy.keywords": "buy,purchase,get",
+	"task.buy.keywords": "buy,purchase,get,invest,negotiate,acquisite",
 	"task.collect": "Collect",
-	"task.collect.keywords": "collect,chop,harvest,gather,forage,fish,catch,mine,find,retrieve,get",
+	"task.collect.keywords": "collect,chop,harvest,gather,forage,fish,catch,mine,find,retrieve,get,acquire,obtain,pick,extract",
 	"task.craft": "Craft",
-	"task.craft.keywords": "craft,cook,create,make,get",
+	"task.craft.keywords": "craft,cook,create,make,get,produce,forge",
 	"task.gift": "Gift",
-	"task.gift.keywords": "gift,give",
+	"task.gift.keywords": "gift,give,offer,treat,present,donate,deliver,grant",
 	"task.sell": "Sell",
-	"task.sell.keywords": "sell,ship",
+	"task.sell.keywords": "sell,ship,market,trade,dispose,retail,transaction,exchange,resell,sale",
 
 	// tab/page names
 	"ui.tab.quests": "Quests",
 	"ui.tab.tasks": "Tasks",
 	"ui.tab.notes": "Notes",
-	
+
 	// tasks page
-	"ui.tasks.help": "Press the Add Task button",
+	"ui.tasks.help": "Press the 'Add Task' button.",
 	"ui.tasks.addbutton.hover": "Add Task",
 	"ui.tasks.editbox.hover": "Edit Task",
 	"ui.tasks.removebutton.hover": "Remove Task",
 	"ui.tasks.renewbutton.hover": "Renew Task",
-	"ui.tasks.renew.day": "{{count}} Day",
-	"ui.tasks.renew.days": "{{count}} Days",
-	"ui.tasks.status.deliver": "[152] Deliver",
-	"ui.tasks.status.upgrading": "[42] Upgrading",
-	"ui.tasks.status.ready": "[151] Ready",
-	"ui.tasks.moneybox.hover0": "Total Amount to Pay/Gain",
+	"ui.tasks.renew.day": "{{count}} day",
+	"ui.tasks.renew.days": "{{count}} days",
+	"ui.tasks.status.deliver": "[152] deliver",
+	"ui.tasks.status.upgrading": "[42] upgrading",
+	"ui.tasks.status.ready": "[151] ready",
+	"ui.tasks.moneybox.hover0": "Total amount to pay/gain",
 	"ui.tasks.moneybox.hover1": "Net Wealth",
 	"ui.tasks.moneybutton.hover": "Change View",
 
@@ -41,7 +41,7 @@
 	"ui.tasks.new.optionsbutton.hover": "Options",
 	"ui.tasks.new.cancelbutton.hover": "Cancel",
 	"ui.tasks.new.smartokbutton.hover": "Smart Add",
-	"ui.tasks.new.smarttip": "Smart Add automatically applies advanced options to a task.",
+	"ui.tasks.new.smarttip": "'Smart Add' automatically applies advanced options to a task.",
 
 	// task options menu
 	"ui.tasks.options": "Task Options",
@@ -58,7 +58,7 @@
 	"ui.tasks.parameter.building": "Building",
 	"ui.tasks.parameter.count": "Count",
 	"ui.tasks.parameter.item": "Item",
-	"ui.tasks.parameter.npc": "NPC",
+	"ui.tasks.parameter.npc": "Villager",
 	"ui.tasks.parameter.tool": "Tool",
 
 	// seasons
